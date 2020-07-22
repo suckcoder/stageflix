@@ -951,6 +951,10 @@ blockquote p {
     margin-bottom: 60px;
   }
 
+  ol {
+    padding-left: 175px;
+  }
+
   #profile-title {
     font-size: 10vw;
   }
